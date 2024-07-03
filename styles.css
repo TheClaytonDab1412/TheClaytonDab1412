@@ -1,6 +1,6 @@
 body{
   padding: 25px;
-  background-image: url('/background.gif');
+  background-image: url('background.gif');
 }
 .title {
 	color: #5C6AC4;
